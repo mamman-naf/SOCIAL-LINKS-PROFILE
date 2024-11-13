@@ -26,11 +26,11 @@ img{
   display: block;
   margin: auto;
 }
-h2{
+h1{
   color: hsl(0, 0%, 100%);
   margin-top: 11%;
 }
-h3{
+h2{
   color: hsl(75, 94%, 57%);
   margin-top: 4%;
 }
